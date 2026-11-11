@@ -216,8 +216,8 @@ O'zbekcha matn inglizchadan ko'proq token oladi. Demak o'zbekcha ilova bir xil h
 **Narxni hisoblash.** Narxlar 1 million token uchun beriladi va tez-tez o'zgaradi. Tanlagan modelingiz narxini [OpenAI pricing](https://platform.openai.com/docs/pricing) sahifasidan olib, quyiga yozing:
 
 ```python
-PRICE_IN = 0.0    # $ / 1M input token
-PRICE_OUT = 0.0   # $ / 1M output token
+PRICE_IN = 0.10    # $ / 1M input token
+PRICE_OUT = 0.50   # $ / 1M output token
 
 def cost_usd(usage) -> float:
     return (usage.input_tokens * PRICE_IN + usage.output_tokens * PRICE_OUT) / 1_000_000
