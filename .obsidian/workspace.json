@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lessons/LLM API to'liq qo'llanma.md",
+                "file": "docs/lessons/RAG to'liq qo'llanma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM API to'liq qo'llanma"
+              "title": "RAG to'liq qo'llanma"
             }
           }
         ]
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lessons/LLM API to'liq qo'llanma.md",
+                "file": "docs/lessons/RAG to'liq qo'llanma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lessons/LLM API to'liq qo'llanma.md",
+                "file": "docs/lessons/RAG to'liq qo'llanma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lessons/LLM API to'liq qo'llanma.md",
+                "file": "docs/lessons/RAG to'liq qo'llanma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +191,25 @@
   },
   "active": "a7a51a84ab1158b1",
   "lastOpenFiles": [
-    "docs/maps/LLM API.md",
+    "docs/maps/RAG (xarita).md",
     "docs/Home.md",
+    "docs/concepts/RAG.md",
+    "docs/maps/LLM API.md",
+    "docs/lessons/LLM API to'liq qo'llanma.md",
+    "docs/lessons/RAG to'liq qo'llanma.md",
+    "docs/concepts/pgvector.md",
+    "Embedding.md",
+    "docs/concepts/Recall@k.md",
+    "docs/concepts/Grounding.md",
+    "docs/concepts/Reranking.md",
+    "docs/concepts/Hybrid search.md",
+    "docs/concepts/Vector search.md",
+    "docs/concepts/Cosine similarity.md",
+    "docs/concepts/Embedding.md",
+    "docs/concepts/Metadata.md",
+    "docs/concepts/Chunking.md",
+    "docs/concepts/Ingestion.md",
+    "Untitled.canvas",
     "docs/projects/Learning app.md",
     "concepts/Structured output.md",
     "notebooks/01_llm_call.ipynb",
@@ -204,22 +221,6 @@
     "docs/concepts/Structured output.md",
     "docs/concepts/Streaming.md",
     "docs/concepts/Stateless.md",
-    "docs/concepts/SDK.md",
-    "docs/concepts/Retry va backoff.md",
-    "docs/concepts/Responses API.md",
-    "docs/concepts/Reasoning tokens.md",
-    "docs/concepts/Rate limit.md",
-    "docs/concepts/Pydantic.md",
-    "docs/concepts/Prompt injection.md",
-    "docs/concepts/Output tokens.md",
-    "docs/concepts/Prompt caching.md",
-    "docs/concepts/Model.md",
-    "docs/concepts/Latency.md",
-    "docs/concepts/LLM.md",
-    "docs/concepts/Instructions.md",
-    "docs/concepts/Input tokens.md",
-    "docs/concepts/Hallucination.md",
-    "docs/concepts/Context window.md",
     "docs/maps",
     "docs/projects",
     "docs/lessons",

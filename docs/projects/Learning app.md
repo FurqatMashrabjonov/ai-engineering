@@ -12,7 +12,7 @@ NotebookLM'ga o'xshash ilova: fayl yuklaysiz, savol berasiz, AI manbasi bilan ja
     - [ ] Suhbat tarixi, `/reset` ([[Stateless]])
     - [ ] Token va narxni chiqarish ([[Token]])
     - [ ] Timeout va retry ([[Retry va backoff]])
-- [ ] **v1** — bitta PDF'ga savol berish
+- [ ] **v1** — bitta PDF'ga savol berish ([[Ingestion]], [[Prompt caching]])
 - [ ] **v2** — ko'p fayl, javobda manba ([[RAG]], [[Embedding]], [[Chunking]])
 - [ ] **v3** — xulosa, test, flashcard ([[Structured output]])
 - [ ] **v4** — web interfeys (FastAPI)
