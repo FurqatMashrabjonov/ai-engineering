@@ -3,7 +3,7 @@ tags: [moc, llm-api]
 ---
 # LLM API
 
-LLM chaqiruvi bo'yicha hamma tushunchalar. To'liq qo'llanma: [[LLM API to'liq qo'llanma]]. Amaliyot: `notebooks/01_llm_call.ipynb` (vault tashqarisida, Jupyter'da oching).
+LLM chaqiruvi bo'yicha hamma tushunchalar. To'liq qo'llanma: [[LLM API to'liq qo'llanma]]. Amaliy davomi: [[Structured output to'liq qo'llanma]]. Amaliyot: `notebooks/01_llm_call.ipynb` (vault tashqarisida, Jupyter'da oching).
 
 ## Asoslar
 - [[LLM]]
@@ -31,8 +31,20 @@ LLM chaqiruvi bo'yicha hamma tushunchalar. To'liq qo'llanma: [[LLM API to'liq qo
 - [[Streaming]]
 
 ## Tuzilgan javob
+To'liq dars: [[Structured output to'liq qo'llanma]]
 - [[Structured output]]
 - [[Pydantic]]
+- [[JSON Schema]]
+- [[Strict mode]]
+- [[Optional maydon]]
+- [[Enum]]
+- [[Field description]]
+- [[Refusal]]
+- [[Validatsiya]]
+- [[Extraction]]
+- [[JSON mode]]
+- [[Flashcard]]
+- [[Leitner usuli]]
 
 ## Narx va tezlik
 - [[Prompt caching]]

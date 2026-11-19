@@ -10,5 +10,6 @@ Python'da ma'lumot sxemasi va validatsiya kutubxonasi. Laravel'dagi FormRequest'
 - [[Structured output]]
 
 ## Manba
+- [[Structured output to'liq qo'llanma#4. Pydantic sxema yozish]]
 - [[LLM API to'liq qo'llanma#9. Structured output]]
 - [[LLM API]]

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lessons/RAG to'liq qo'llanma.md",
+                "file": "docs/lessons/Agentlar va LangGraph qo'llanma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG to'liq qo'llanma"
+              "title": "Agentlar va LangGraph qo'llanma"
+            }
+          },
+          {
+            "id": "984abece0581b530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embedding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lessons/RAG to'liq qo'llanma.md",
+                "file": "docs/lessons/Agentlar va LangGraph qo'llanma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lessons/RAG to'liq qo'llanma.md",
+                "file": "docs/lessons/Agentlar va LangGraph qo'llanma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lessons/RAG to'liq qo'llanma.md",
+                "file": "docs/lessons/Agentlar va LangGraph qo'llanma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,44 +204,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "a7a51a84ab1158b1",
+  "active": "984abece0581b530",
   "lastOpenFiles": [
-    "docs/maps/RAG (xarita).md",
+    "docs/concepts/Agentlar.md",
+    "docs/concepts/Agentic RAG.md",
+    "docs/maps/Agentlar (xarita).md",
     "docs/Home.md",
-    "docs/concepts/RAG.md",
-    "docs/maps/LLM API.md",
-    "docs/lessons/LLM API to'liq qo'llanma.md",
-    "docs/lessons/RAG to'liq qo'llanma.md",
-    "docs/concepts/pgvector.md",
-    "Embedding.md",
-    "docs/concepts/Recall@k.md",
-    "docs/concepts/Grounding.md",
-    "docs/concepts/Reranking.md",
-    "docs/concepts/Hybrid search.md",
-    "docs/concepts/Vector search.md",
-    "docs/concepts/Cosine similarity.md",
-    "docs/concepts/Embedding.md",
-    "docs/concepts/Metadata.md",
-    "docs/concepts/Chunking.md",
-    "docs/concepts/Ingestion.md",
+    "docs/lessons/Structured output to'liq qo'llanma.md",
+    "file:/Users/furqat/Desktop/cabinet-assessment-history-front.md",
+    "2026-11-12.md",
+    "docs/concepts/Validatsiya.md",
+    "docs/concepts/Strict mode.md",
+    "docs/concepts/Refusal.md",
+    "docs/concepts/Optional maydon.md",
+    "docs/concepts/Leitner usuli.md",
+    "docs/concepts/JSON mode.md",
+    "docs/concepts/JSON Schema.md",
+    "docs/concepts/Flashcard.md",
+    "docs/concepts/Field description.md",
+    "docs/concepts/Extraction.md",
+    "docs/concepts/Enum.md",
     "Untitled.canvas",
     "docs/projects/Learning app.md",
-    "concepts/Structured output.md",
-    "notebooks/01_llm_call.ipynb",
-    "notebooks/00_test.ipynb",
-    "notebooks",
-    "docs/concepts/max_output_tokens.md",
-    "docs/concepts/Token.md",
-    "docs/concepts/Temperature.md",
-    "docs/concepts/Structured output.md",
-    "docs/concepts/Streaming.md",
-    "docs/concepts/Stateless.md",
-    "docs/maps",
-    "docs/projects",
-    "docs/lessons",
-    "docs/concepts",
-    "docs",
-    "projects",
-    "maps"
+    "docs/lessons/Agentlar va LangGraph qo'llanma.md",
+    "docs/lessons/Tool calling qo'llanma.md",
+    "docs/maps/Xavfsizlik (xarita).md",
+    "docs/maps/Production (xarita).md",
+    "docs/maps/Eval (xarita).md",
+    "docs/lessons/Portfolio qo'llanma.md",
+    "docs/lessons/Docker va deploy qo'llanma.md",
+    "notebooks/document.docx",
+    "document.docx",
+    "notebooks/document.pdf",
+    "notebooks/2025-06_IMF_Article-IV-2025-CR25-143_EN.pdf",
+    "notebooks/02_rag.ipynb",
+    "notebooks/01_llm_call_homework copy.ipynb",
+    "notebooks/01_llm_call_homework.ipynb",
+    "notebooks/01_llm_call copy.ipynb",
+    "notebooks/laravel_book.txt",
+    "notebooks/01_llm_call.ipynb"
   ]
 }

@@ -519,11 +519,11 @@ Keyinchalik bu funksiya `llm/` papkasiga ko'chadi va `LLMProvider` interfeysi or
 
 Har birini kodga qaramasdan, o'zingiz yozing. Tiqilib qolsangiz, tegishli bo'limni qayta o'qing.
 
-- [ ] Bitta savolni 3 marta yuborib, javoblar va token sonlarini solishtiring
-- [ ] Terminalda ishlaydigan chat yozing: `while True` sikli, suhbat tarixi bilan, `/reset` buyrug'i tarixni tozalasin
-- [ ] Chatga har javobdan keyin tokenlar va narxni chiqarishni qo'shing
-- [ ] `max_output_tokens=50` bilan javob kesilishini chiqarib, foydalanuvchiga "javob to'liq emas" deb ogohlantiring
-- [ ] O'zbekcha va inglizcha bir xil matnning token sonini solishtiring
+- [x] Bitta savolni 3 marta yuborib, javoblar va token sonlarini solishtiring
+- [x] Terminalda ishlaydigan chat yozing: `while True` sikli, suhbat tarixi bilan, `/reset` buyrug'i tarixni tozalasin
+- [x] Chatga har javobdan keyin tokenlar va narxni chiqarishni qo'shing
+- [x] `max_output_tokens=50` bilan javob kesilishini chiqarib, foydalanuvchiga "javob to'liq emas" deb ogohlantiring
+- [x] O'zbekcha va inglizcha bir xil matnning token sonini solishtiring
 - [ ] Retry funksiyasini o'zingiz yozing va `timeout=0.01` bilan sinab ko'ring
 - [ ] Chatni streaming'ga o'tkazing va time to first token'ni o'lchang
 - [ ] Istalgan maqoladan 5 ta test savoli (`Quiz` modeli) va 10 ta flashcard oling

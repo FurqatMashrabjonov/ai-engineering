@@ -13,3 +13,4 @@ Matn ichiga yashirilgan "oldingi ko'rsatmalarni unut" kabi zararli ko'rsatma. Le
 ## Manba
 - [[LLM API to'liq qo'llanma#2. Atamalar lug'ati]]
 - [[LLM API]]
+- [[Guardrails va OWASP qo'llanma]]

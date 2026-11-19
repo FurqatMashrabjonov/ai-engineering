@@ -1,7 +1,3 @@
-# RAG: to'liq qo'llanma
-
-Nov 11, 2026 · @write code that makes crud of users in laravel
-
 Hujjatlardan manbali javob beradigan tizimni noldan qurish: fayldan matn olishdan sifatni o'lchashgacha. Kod OpenAI Python SDK va PostgreSQL + pgvector bilan.
 
 ## 1. RAG nima va qachon kerak

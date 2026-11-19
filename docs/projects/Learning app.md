@@ -14,10 +14,10 @@ NotebookLM'ga o'xshash ilova: fayl yuklaysiz, savol berasiz, AI manbasi bilan ja
     - [ ] Timeout va retry ([[Retry va backoff]])
 - [ ] **v1** — bitta PDF'ga savol berish ([[Ingestion]], [[Prompt caching]])
 - [ ] **v2** — ko'p fayl, javobda manba ([[RAG]], [[Embedding]], [[Chunking]])
-- [ ] **v3** — xulosa, test, flashcard ([[Structured output]])
-- [ ] **v4** — web interfeys (FastAPI)
-- [ ] **v5** — tool'lar va o'quv reja agenti ([[Agentlar]], [[Tool calling]])
-- [ ] **v6** — sifatni o'lchash ([[Eval]])
-- [ ] **v7** — deploy
+- [ ] **v3** — xulosa, test, flashcard ([[Structured output to'liq qo'llanma]], [[Flashcard]])
+- [ ] **v4** — web interfeys ([[FastAPI]], [[SSE]])
+- [ ] **v5** — tool'lar va o'quv reja agenti ([[Tool calling]], [[Agentlar]], [[LangGraph]], [[MCP]])
+- [ ] **v6** — sifatni o'lchash ([[Eval]], [[LLM-as-a-judge]], [[Observability]], [[Guardrails]])
+- [ ] **v7** — deploy ([[Docker]], [[Deploy]], [[Portfolio]])
 
 ## Qaydlar
