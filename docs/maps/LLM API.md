@@ -27,7 +27,7 @@ LLM chaqiruvi bo'yicha hamma tushunchalar. To'liq qo'llanma: [[LLM API to'liq qo
 - [[Retry va backoff]]
 - [[Rate limit]]
 - [[Latency]]
-- [[Async]]
+- [[Async]] — to'liq: [[Async Python to'liq qo'llanma]]
 - [[Streaming]]
 
 ## Tuzilgan javob

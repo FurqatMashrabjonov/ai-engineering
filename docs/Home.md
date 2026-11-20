@@ -17,6 +17,7 @@ Asosiy kirish sahifasi. Hamma narsa shu yerdan boshlanadi.
 - [[Xavfsizlik (xarita)]] — guardrails, OWASP LLM Top 10
 
 ## Darslar
+- [[Async Python to'liq qo'llanma]]
 - [[AI agentlar 2026 holati]]
 - [[LLM API to'liq qo'llanma]]
 - [[RAG to'liq qo'llanma]]

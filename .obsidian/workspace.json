@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedding.md",
+                "file": "docs/lessons/Async Python to'liq qo'llanma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Embedding"
+              "title": "Async Python to'liq qo'llanma"
             }
           }
         ],
@@ -206,6 +206,9 @@
   },
   "active": "984abece0581b530",
   "lastOpenFiles": [
+    "notebooks/08_async.ipynb",
+    "notebooks/07_workflow_demo copy.ipynb",
+    "Embedding.md",
     "docs/concepts/Agentlar.md",
     "docs/concepts/Agentic RAG.md",
     "docs/maps/Agentlar (xarita).md",
@@ -231,8 +234,6 @@
     "docs/maps/Xavfsizlik (xarita).md",
     "docs/maps/Production (xarita).md",
     "docs/maps/Eval (xarita).md",
-    "docs/lessons/Portfolio qo'llanma.md",
-    "docs/lessons/Docker va deploy qo'llanma.md",
     "notebooks/document.docx",
     "document.docx",
     "notebooks/document.pdf",
@@ -241,7 +242,6 @@
     "notebooks/01_llm_call_homework copy.ipynb",
     "notebooks/01_llm_call_homework.ipynb",
     "notebooks/01_llm_call copy.ipynb",
-    "notebooks/laravel_book.txt",
-    "notebooks/01_llm_call.ipynb"
+    "notebooks/laravel_book.txt"
   ]
 }
